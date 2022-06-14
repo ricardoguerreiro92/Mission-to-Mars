@@ -1,3 +1,3 @@
 # Mission-to-Mars
 
-['web_scraped](/web_scraped.png)
+!['web_scraped'](/resources/web_scraped.png)
