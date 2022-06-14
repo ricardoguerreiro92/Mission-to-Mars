@@ -1,0 +1,17 @@
+body {
+    background-color: coral;
+    background-image: url(mars.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: black;
+}
+
+h2,h4,p {
+    font-family: 'Lucida Handwriting', cursive;
+
+}
+
+h1 {
+    font-family: "Lucida Handwriting", cursive;
+}
+
